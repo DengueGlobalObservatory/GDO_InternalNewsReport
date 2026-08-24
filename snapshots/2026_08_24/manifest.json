@@ -1,0 +1,15 @@
+{
+  "source_output_folder": "2026_08_18",
+  "target_render_date": "2026-08-18",
+  "source_commit_sha": "8f5519d74b7b8f24ef6512653d0d6ebd99ddf504",
+  "fetched_at": "2026-08-24T08:14:21Z",
+  "prior_snapshot_folder": "2026_08_12",
+  "n_countries": 84,
+  "fallback_used": false,
+  "fallback_reason": null,
+  "environment_probe": {
+    "r_version": "R version 4.3.3 (2024-02-29)",
+    "platform": "x86_64-pc-linux-gnu",
+    "probed_at": "2026-08-24T08:14:22Z"
+  }
+}

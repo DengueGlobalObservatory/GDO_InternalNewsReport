@@ -1,0 +1,22 @@
+iso3,country,region,category,field,prior_value,current_value,delta
+BRB,Barbados,Caribbean,A,severity_interpretation,Rare good event - unusually low cases to date,Below average - fewer cases than typical at this point,NA
+LKA,Sri Lanka,South Asia,A,severity_interpretation,Above average - more cases than typical at this point,Rare bad event - unusually high cases to date,NA
+PAN,Panama,North & Central America,A,severity_interpretation,Average - typical case load at this point,Above average - more cases than typical at this point,NA
+PRY,Paraguay,South America,A,severity_interpretation,Below average - fewer cases than typical at this point,Average - typical case load at this point,NA
+ATG,Antigua And Barbuda,Caribbean,B,monthly_ratio_descriptor,running well below,running slightly below,NA
+BRA,Brazil,South America,B,monthly_ratio_descriptor,running well below,running slightly above,NA
+COL,Colombia,South America,B,monthly_ratio_descriptor,running well below,running slightly below,NA
+GUY,Guyana,South America,B,monthly_ratio_descriptor,running well above,running well below,NA
+IND,India,South Asia,B,monthly_ratio_descriptor,running slightly above,tracking near,NA
+PAN,Panama,North & Central America,B,monthly_ratio_descriptor,running well below,running slightly below,NA
+PER,Peru,South America,B,monthly_ratio_descriptor,running well below,running well above,NA
+LKA,Sri Lanka,South Asia,C,current_season_percentile,37.7,82.2,44.479330343548405
+PAN,Panama,North & Central America,C,current_season_percentile,28.8,35.3,6.490771227965499
+ATG,Antigua And Barbuda,Caribbean,C,current_season_percentile,10.7,16.4,5.785191063878099
+VEN,Venezuela,South America,C,current_season_percentile,18.2,12.8,-5.4468917750816
+BRB,Barbados,Caribbean,C,current_season_percentile,1.6,5.9,4.2634837307166595
+COL,Colombia,South America,C,current_season_percentile,23.8,27.6,3.7962632145009003
+BGD,Bangladesh,South Asia,C,current_season_percentile,51.3,48.6,-2.691482205962501
+USA,United States Of America,North & Central America,C,current_season_percentile,12.9,15.4,2.531844437640899
+GRD,Grenada,Caribbean,C,current_season_percentile,10.5,12.8,2.3414882347619006
+THA,Thailand,East & Southeast Asia,C,current_season_percentile,4.7,3.2,-1.54015402206984
