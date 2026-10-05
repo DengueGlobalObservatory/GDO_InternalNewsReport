@@ -1,0 +1,23 @@
+iso3,country,region,category,field,prior_value,current_value,delta
+BOL,Bolivia,South America,A,severity_interpretation,Average - typical case load at this point,Above average - more cases than typical at this point,NA
+HND,Honduras,North & Central America,A,severity_interpretation,Below average - fewer cases than typical at this point,Average - typical case load at this point,NA
+JAM,Jamaica,Caribbean,A,severity_interpretation,Below average - fewer cases than typical at this point,Average - typical case load at this point,NA
+MEX,Mexico,North & Central America,A,severity_interpretation,Average - typical case load at this point,Below average - fewer cases than typical at this point,NA
+NPL,Nepal,South Asia,A,severity_interpretation,Above average - more cases than typical at this point,Average - typical case load at this point,NA
+PER,Peru,South America,A,severity_interpretation,Average - typical case load at this point,Above average - more cases than typical at this point,NA
+SUR,Suriname,South America,A,severity_interpretation,Above average - more cases than typical at this point,Average - typical case load at this point,NA
+BOL,Bolivia,South America,B,monthly_ratio_descriptor,tracking near,running well above,NA
+BRA,Brazil,South America,B,monthly_ratio_descriptor,running well above,running well below,NA
+COL,Colombia,South America,B,monthly_ratio_descriptor,running slightly above,running well below,NA
+GRD,Grenada,Caribbean,B,monthly_ratio_descriptor,running well above,running well below,NA
+NPL,Nepal,South Asia,B,monthly_ratio_descriptor,tracking near,running well below,NA
+TLS,Timor-Leste,East & Southeast Asia,C,current_season_percentile,16.5,85.2,68.71781924890661
+WSM,Samoa,Pacific Islands,C,current_season_percentile,6.3,60.6,54.252484145093334
+NCL,New Caledonia,Pacific Islands,C,current_season_percentile,15.7,69.3,53.5612681619317
+MRT,Mauritania,Sub-Saharan Africa,C,current_season_percentile,35.7,72.4,36.764263945601805
+SDN,Sudan,"Europe, Middle East & North Africa",C,current_season_percentile,61.2,83.9,22.701833781249903
+USA,United States Of America,North & Central America,C,current_season_percentile,30.7,52.4,21.646298728674896
+PER,Peru,South America,C,current_season_percentile,0,19.9,19.903497327086104
+VNM,Viet Nam,East & Southeast Asia,C,current_season_percentile,32.6,49.5,16.8371687374782
+CHN,China,East & Southeast Asia,C,current_season_percentile,39,53.6,14.6328122846948
+PAN,Panama,North & Central America,C,current_season_percentile,53.8,68.2,14.375102085086802
