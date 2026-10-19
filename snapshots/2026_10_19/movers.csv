@@ -1,0 +1,27 @@
+iso3,country,region,category,field,prior_value,current_value,delta
+CHN,China,East & Southeast Asia,A,severity_interpretation,Cannot determine,Above average - more cases than typical at this point,NA
+GUF,French Guiana,South America,A,severity_interpretation,Rare good event - unusually low cases to date,Below average - fewer cases than typical at this point,NA
+HND,Honduras,North & Central America,A,severity_interpretation,Average - typical case load at this point,Below average - fewer cases than typical at this point,NA
+JAM,Jamaica,Caribbean,A,severity_interpretation,Average - typical case load at this point,Below average - fewer cases than typical at this point,NA
+MEX,Mexico,North & Central America,A,severity_interpretation,Below average - fewer cases than typical at this point,Average - typical case load at this point,NA
+MRT,Mauritania,Sub-Saharan Africa,A,severity_interpretation,Below average - fewer cases than typical at this point,Average - typical case load at this point,NA
+PER,Peru,South America,A,severity_interpretation,Above average - more cases than typical at this point,Rare bad event - unusually high cases to date,NA
+SDN,Sudan,"Europe, Middle East & North Africa",A,severity_interpretation,Rare bad event - unusually high cases to date,Above average - more cases than typical at this point,NA
+USA,United States Of America,North & Central America,A,severity_interpretation,Average - typical case load at this point,Above average - more cases than typical at this point,NA
+BRA,Brazil,South America,B,monthly_ratio_descriptor,running well below,running well above,NA
+CHN,China,East & Southeast Asia,B,monthly_ratio_descriptor,running well above,running slightly below,NA
+COL,Colombia,South America,B,monthly_ratio_descriptor,running well below,tracking near,NA
+GRD,Grenada,Caribbean,B,monthly_ratio_descriptor,running well below,tracking near,NA
+GUY,Guyana,South America,B,monthly_ratio_descriptor,running well below,running slightly above,NA
+IND,India,South Asia,B,monthly_ratio_descriptor,tracking near,running slightly above,NA
+VNM,Viet Nam,East & Southeast Asia,B,monthly_ratio_descriptor,running well above,running slightly above,NA
+AUS,Australia,Pacific Islands,C,current_season_percentile,46.3,0,-46.320307288046656
+PER,Peru,South America,C,current_season_percentile,19.9,49.1,29.2159565054557
+SDN,Sudan,"Europe, Middle East & North Africa",C,current_season_percentile,83.9,72.6,-11.343911893575608
+PAK,Pakistan,South Asia,C,current_season_percentile,31,22.8,-8.202848511342598
+SUR,Suriname,South America,C,current_season_percentile,62.9,55,-7.875518361638399
+ARG,Argentina,South America,C,current_season_percentile,21,13.4,-7.670043579200902
+USA,United States Of America,North & Central America,C,current_season_percentile,52.4,58.5,6.0720951573972
+BGD,Bangladesh,South Asia,C,current_season_percentile,75.1,81,5.8578708031463975
+GRD,Grenada,Caribbean,C,current_season_percentile,43,48.7,5.6446117678856
+VEN,Venezuela,South America,C,current_season_percentile,26.3,21.7,-4.695110727453002
